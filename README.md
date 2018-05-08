@@ -21,8 +21,8 @@ I had a host of troublesome moments working through this data, one being my own 
 
 I also found myself incredibly saddened by the realization that so many Twitter trolls and bots (aka, “Promotional/Get Rich Quick”) target online users interested in financial betterment and steadiness. This tagged group, filled with repetitive and enticing tweets from lotteries, pyramid scheme organizations, and individuals posing as wealthy benefactors, dominated my data findings. Another line of inquiry I would have liked to follow up with would center around these tweets and the number of minority Twitter users who retweeted them in order to win a sweepstakes or pursue other avenues of potential wealth, somewhat reminiscent of African American communities and targeted marketing practices of payday lenders. But, that’s the thing with data. There’s so much to unpack and so many people who go (un)seen.
 
-## Examples of Links
+## Relevant Links
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
+A link to my [data](https://github.com/savmoix/datastory/blob/master/data/moneymoves%20little%20big%20data.csv)
 
 ![chart](https://github.com/savmoix/datastory/blob/master/images/moneymoves%20Percent%20Breakdown%20by%20Topic%20Pie%20Chart.png)
