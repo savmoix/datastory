@@ -25,5 +25,4 @@ I also found myself incredibly saddened by the realization that so many Twitter 
 
 A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
 
-![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
-
+![chart](https://github.com/savmoix/datastory/blob/master/images/moneymoves%20Percent%20Breakdown%20by%20Topic%20Pie%20Chart.png)
